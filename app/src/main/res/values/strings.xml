@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TarjetaPresentacion2</string>
+    <string name="name">Achraf</string>
+    <string name="firstSurname">Boujaanan</string>
+    <string name="secondSurname">Tajalmant</string>
+    <string name="schoolName">IES Virgen de la Paloma</string>
+    <string name="fullNameVertically">Achraf\nBoujaanan\nTajalamant</string>
+    <string name="urlEmail">https://mail.google.com/mail/u/0/#inbox?compose=HfxTvSTSxHnLTfrmTKsWvqrjSmkvRnnLwqQczmHBfvLJdRLbSJmxWPxhwbqlRxhhrJNQpdGCZjHrvbXGvNfPMVLMgLLJdBPfrTrTnHkDXpcJGQcqdPRjPfBXxqMnwnDBbGFZQWkqSMgdfQKfwrVjsxntFrnHlKMGqkkcmb</string>
+    <string name="email">achrafbjn@gmail.com</string>
+    <string name="instagram">achrafbjn_</string>
+    <string name="urlInstagram">https://instagram.com</string>
+    <string name="website">www.achraf.com/</string>
+    <string name="urlWebsite">www.achraf.com</string>
+    <string name="ubicacion">Madrid, Spain</string>
+    <string name="urlUbicacion">https://maps.app.goo.gl/hcnTL6Lq6zAmkPDU7</string>
+    <string name="telephoneNumber">612401482</string>
+    <string name="curso">2º A.M.M</string>
+    <string name="centerName">IES VIRGEN DE LA PALOMA</string>
+    <string name="fullNameHorizontally">Achraf Boujaanan Tajalmant</string>
+</resources>
